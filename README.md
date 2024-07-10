@@ -14,6 +14,7 @@ Skills:
 * CSS  
 * bootstrip
 * JS
+* Jqurey
 
 
 
