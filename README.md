@@ -3,7 +3,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to SAYED Dergham's profile!
+  Welcome to SAYED MOHAMED's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -14,13 +14,13 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, AngularJS  or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/sayed-mohamed-81b66b290/" target="_blank"><img src="https://img.shields.io/badge/-SAYED%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sayed-mohamed-81b66b290/" target="_blank"><img src="https://img.shields.io/badge/-SAYED%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -41,6 +41,6 @@
 
 
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=SAYEDMOHAMED&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=SAYEDMOHAMED&style=for-the-badge">
 </a>
