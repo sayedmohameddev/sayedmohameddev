@@ -38,6 +38,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET&logoColor=339933)&nbsp;
+![ASP.NET Core MVC](https://img.shields.io/badge/-ASP.NET%20Core%20MVC-512BD4?style=flat&logo=aspnetcore)&nbsp;
+![Web API](https://img.shields.io/badge/-Web%20API-512BD4?style=flat&logo=aspnet)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 <br>
 
