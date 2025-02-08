@@ -25,7 +25,6 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/sayed-mohamed-81b66b290/" target="_blank"><img src="https://img.shields.io/badge/-SAYED%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://myprotfolio20.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-my%20protfolio-0077B5?style=for-the-badge&logo=&logoColor=white"/></a>
 
 
@@ -101,15 +100,15 @@
 
 
 ###
-
+<br>
 <div align="left">
   <a href="www.linkedin.com/in/mohamed-nashaat-444725234" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mohamednashaat1137" target="_blank">
+  <a href="https://www.linkedin.com/in/sayed-mohamed-81b66b290/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="mohamed70nashaat@gmail.com" target="_blank">
+  <a href="sayedmohameddev@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
